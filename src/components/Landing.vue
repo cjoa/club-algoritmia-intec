@@ -39,6 +39,11 @@ export default {
     height : 95vh;
   }
 
+  .vertical-center {
+    display: flex;
+    align-items: center;
+  }
+
 
 
 </style>
