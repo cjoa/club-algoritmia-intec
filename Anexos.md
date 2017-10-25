@@ -1,4 +1,5 @@
 # Anexos
+
 Entre los años 2010 a 2017 han participado 14 equipos caribeños, de los cuales 12 fueron equipos cubanos y 2 dominicanos. En los 2 equipos dominicanos ha participado como concursante Carlos Toribio y como entrenador Carlos Joa.
 
 ## Final Mundial 2012 del ACM-ICPC en Varsovia, Polonia
