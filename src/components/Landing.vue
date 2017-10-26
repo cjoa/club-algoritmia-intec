@@ -1,16 +1,24 @@
 <template>
   <div class="headerContainer">
-    <div class="jumbotron">
+    <v-navbar></v-navbar>
+    <div class="jumbotron vertical-center">
       <div class="container">
         <h1>Club Algoritmia INTEC</h1>
+        <v-button></v-button>
       </div>
     </div>
   </div>
 </template>
 
 <script>
+  import Button from '../../src/Components/Button';
+  import Navbar from '../../src/Components/NavBar';
 export default {
   name: 'LandingPage',
+  components: {
+    'v-navbar' : Navbar,
+    'v-button' : Button
+  },
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
@@ -26,9 +34,16 @@ export default {
   }
 
   .jumbotron {
+    margin: 0 0 0 0;
     text-align: center;
-    height: 100vh;
+    height : 95vh;
   }
+
+  .vertical-center {
+    display: flex;
+    align-items: center;
+  }
+
 
 
 </style>
