@@ -1,4 +1,5 @@
 # INTEC’s Algorithm Club
+
 Founded in November of 2010 by two graduates from the Instituto Tecnológico de Santo Domingo (INTEC), Aronis Mariano y Carlos José Toribio, the club has the purpose of teaching the students from the university and anyone that’s interested the use of algorithm specifically focused on programming.
 
 The club seeks that students learn to utilize logic to solve problems and learn to implement these ideas in a programming language. Besides, for those that don’t have any knowledge in coding, the club is in charge of teaching them slowly until they get to high knowledge in the languages. 
